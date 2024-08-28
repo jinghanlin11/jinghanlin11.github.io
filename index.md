@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![jinghan1](C:\Users\lin\Documents\GitHub\jinghanlin11.github.io\jinghan1.jpeg)
+![jinghan](\images\jinghan1.jpeg)
 
 My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵]. <br>
 
