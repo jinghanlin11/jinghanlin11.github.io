@@ -6,37 +6,35 @@ layout: page
 
 ![jinghan1](C:\Users\lin\Documents\GitHub\jinghanlin11.github.io\jinghan1.jpeg)
 
-My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵].
+My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵]. <br>
 
-I am currently pursuing my Master's degree in *Chinese Linguistics* at Peking University under the supervision of Prof. Yunjia Wang.
+I am currently pursuing my Master's degree in *Chinese Linguistics* at Peking University under the supervision of Prof. Yunjia Wang. <br>
 
-My research interests are phonetics and phonology, especially acoustic and perceptual research on sound variation and change, cue weighting in sound contrast. As a native speaker, I also have a strong interest in Southern Min Chinese dialects.
+My research interests are phonetics and phonology, especially acoustic and perceptual research on sound variation and change, cue weighting in sound contrast. As a native speaker, I also have a strong interest in Southern Min Chinese dialects. <br>
 
-In my spare time, I enjoy piano, jogging, hiking and badminton.
+In my spare time, I enjoy piano, jogging, hiking and badminton. <br>
 
-Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**.
+Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <br>
 
-
+<br>
 
 ## Academic Background
 
-**2023 - 			M.A. in Chinese Linguistics**
+**2023 - 			M.A. in Chinese Linguistics** <br>
 
-Department of Chinese Language and Literature, Peking University
+Department of Chinese Language and Literature, Peking University <br>
 
-Supervisor: Prof. Yunjia Wang
+Supervisor: Prof. Yunjia Wang <br>
 
+<br>
 
+**2019 - 2023 		B.A. in Chinese** <br>
 
+Department of Chinese Language and Literature, Peking University <br>
 
+Graduate Thesis: *The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect* <br>
 
-**2019 - 2023 		B.A. in Chinese**
-
-Department of Chinese Language and Literature, Peking University
-
-Graduate Thesis: *The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect*
-
-Supervisor: Prof. Yunjia Wang
+Supervisor: Prof. Yunjia Wang <br>
 
 
 
@@ -44,17 +42,17 @@ Supervisor: Prof. Yunjia Wang
 
 ## Research Interests
 
-- Experimental phonetics
+- Experimental phonetics <br>
 
-- Language variation and change
+- Acoustic and perceptual research<br>
 
-- Acoustic and perceptual research
+- Language variation and change<br>
 
-- Sociolinguistics
+- Sociolinguistics<br>
 
-- Southern Min dialects
+- Southern Min dialects<br>
 
-  
+  <br>
 
 ---
 
