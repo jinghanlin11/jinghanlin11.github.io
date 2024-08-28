@@ -48,7 +48,7 @@ Supervisor: Prof. Yunjia Wang
 
 - Language variation and change
 
-- Acoustic and perceptual research of sound
+- Acoustic and perceptual research
 
 - Sociolinguistics
 
