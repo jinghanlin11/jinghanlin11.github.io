@@ -28,7 +28,9 @@ I was the piano accompanist for the choir in our department.
 
 - Hiking at Tongzhouyu, Beijing (April 2023)
 
-  ![hiking](\images\hiking.jpg)
+  ![hiking](\images\hiking.jpg) 
+
+  <br>
 
   ![hiking2](\images\hiking2.JPG)
 
