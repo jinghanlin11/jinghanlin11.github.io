@@ -11,16 +11,15 @@ title: Experience
 
 - 2024	**Leiden Summer School in Languages and Linguistics (LLL)**
 
-
-Centre for Linguistics, Leiden University (LUCL)
+  Centre for Linguistics, Leiden University (LUCL)
 
 - 2021 - 2023     **Peking University Junior Scholar Program**
 
-Research Program on *Language and Artificial Intelligence*
+  Research Program on *Language and Artificial Intelligence*
 
-Department of Chinese Language and Literature, Peking University
+  Department of Chinese Language and Literature, Peking University
 
-Supervisors: Prof. Yulin Yuan & Prof. Weidong Zhan
+  Supervisors: Prof. Yulin Yuan & Prof. Weidong Zhan
 
 <br>
 
