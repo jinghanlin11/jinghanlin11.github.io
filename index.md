@@ -12,7 +12,9 @@ I am currently pursuing my Master's degree in *Chinese Linguistics* at Peking Un
 
 My research interests are phonetics and phonology, especially acoustic and perceptual research on sound variation and change, cue weighting in sound contrast. As a native speaker, I also have a strong interest in Southern Min Chinese dialects. <br>
 
-In my spare time, I enjoy piano, jogging, hiking and badminton. <br>
+In my spare time, I enjoy piano, jogging, hiking and badminton. 
+
+<br>
 
 Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <br>
 
