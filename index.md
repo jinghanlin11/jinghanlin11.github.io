@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 ![jinghan](\images\jinghan1.jpeg)
 
