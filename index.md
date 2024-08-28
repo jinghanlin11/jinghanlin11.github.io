@@ -30,8 +30,6 @@ Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <b
 
   Supervisor: Prof. Yunjia Wang <br>
 
-<br>
-
 - **2019 - 2023        B.A. in Chinese** <br>
 
   Department of Chinese Language and Literature, Peking University <br>
