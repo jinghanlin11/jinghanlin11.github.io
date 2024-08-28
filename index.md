@@ -20,6 +20,7 @@ Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <b
 
 ## Academic Background
 
+```html
 **2023 - 			M.A. in Chinese Linguistics** <br>
 
 Department of Chinese Language and Literature, Peking University <br>
@@ -35,6 +36,7 @@ Department of Chinese Language and Literature, Peking University <br>
 Graduate Thesis: *The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect* <br>
 
 Supervisor: Prof. Yunjia Wang <br>
+```
 
 
 
