@@ -9,7 +9,7 @@ title: Experience
 
 ## Non-degree Studies
 
-- 2024	**Leiden Summer School in Languages and Linguistics (LLL)**
+- 15-26 July 2024	**Leiden Summer School in Languages and Linguistics (LLL)**
 
   Centre for Linguistics, Leiden University (LUCL)
 

@@ -7,6 +7,10 @@ title: Publications
 > Update: 28 August 2024
 >
 
+> Latest update: 28 August 2024
+
+
+
 ## Conference Paper
 
 - 2023  **The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect**
