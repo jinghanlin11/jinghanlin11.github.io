@@ -20,8 +20,8 @@ title: Experience
   Department of Chinese Language and Literature, Peking University
 
   Supervisors: Prof. Yulin Yuan & Prof. Weidong Zhan
-
-<br>
+  
+  <br>
 
 
 ---
