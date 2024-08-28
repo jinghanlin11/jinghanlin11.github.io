@@ -63,9 +63,9 @@ permalink:   /:categories/:title
 
 kramdown:
   auto_ids: true
-  footnote_nr: 1
+  footnote_nr: 0
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 0
   enable_coderay: false
 
   # coderay:
@@ -78,7 +78,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: jinghanlin
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
