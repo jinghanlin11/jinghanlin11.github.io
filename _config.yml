@@ -47,7 +47,7 @@ links:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Beijing, China
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown

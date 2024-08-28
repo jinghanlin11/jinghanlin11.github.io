@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+![jinghan1](C:\Users\lin\Documents\GitHub\jinghanlin11.github.io\jinghan1.jpeg)
 
 My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵].
 
@@ -20,10 +20,14 @@ Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**.
 
 ## Academic Background
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+**2023 - 			M.A. in Chinese Linguistics**
+Department of Chinese Language and Literature, Peking University
+Supervisor: Prof. Yunjia Wang
+
+**2019 - 2023 		B.A. in Chinese**
+Department of Chinese Language and Literature, Peking University
+Graduate Thesis: *The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect*
+Supervisor: Prof. Yunjia Wang
 
 ---
 
