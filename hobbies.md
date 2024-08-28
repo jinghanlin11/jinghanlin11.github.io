@@ -32,7 +32,7 @@ I was the piano accompanist for the choir in our department.
 
   ![hiking2](\images\hiking2.JPG)
 
-- Climb Xiangshan Mountain at night, Beijing (May 2023)
+- Climbing Xiangshan Mountain at night, Beijing (May 2023)
 
   ![hiking3](\images\hiking3.JPG)
 
