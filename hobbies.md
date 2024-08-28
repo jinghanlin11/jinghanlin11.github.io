@@ -20,5 +20,7 @@ I have been practicing piano since I was six years old. Chopin, Beethoven and Ba
 
 ![hiking2](\images\hiking2.JPG)
 
-`<center>Hiking at Tongzhouyu, Beijing (April 2023)</center>`
+```html
+`<center> Hiking at Tongzhouyu, Beijing (April 2023) </center>`
+```
 
