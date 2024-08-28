@@ -24,7 +24,7 @@ Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <b
 
 ## Academic Background
 
-**2023 -          M.A. in Chinese Linguistics** <br>
+- **2023 -          M.A. in Chinese Linguistics** <br>
 
 Department of Chinese Language and Literature, Peking University <br>
 
@@ -32,7 +32,7 @@ Supervisor: Prof. Yunjia Wang <br>
 
 <br>
 
-**2019 - 2023        B.A. in Chinese** <br>
+- **2019 - 2023        B.A. in Chinese** <br>
 
 Department of Chinese Language and Literature, Peking University <br>
 
