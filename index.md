@@ -26,7 +26,7 @@ Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <b
 
 ## Academic Background
 
-- **2023 -          M.A. in Chinese Linguistics** <br>
+- **2023 - present        M.A. in Chinese Linguistics** <br>
 
   Department of Chinese Language and Literature, Peking University <br>
 
