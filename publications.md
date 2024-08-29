@@ -4,9 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: 28 August 2024
->
-
 > Latest update: 28 August 2024
 
 
