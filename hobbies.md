@@ -8,15 +8,7 @@ title: Hobbies
 
 ## Piano
 
-<br>
-
-![piano](\images\piano.jpg)
-
-I have been practicing the piano since I was six years old. Chopin, Beethoven and Bach are my favourites.
-
-I was the piano accompanist for the choir in our department.
-
-![piano2](\images\piano2.jpg)
+<br>![piano](\images\piano.jpg)<br>I have been practicing the piano since I was six years old. Chopin, Beethoven and Bach are my favourites.<br>I was the piano accompanist for the choir in our department.<br>![piano2](\images\piano2.jpg)
 
 <br>
 
@@ -26,15 +18,10 @@ I was the piano accompanist for the choir in our department.
 
 ## Hiking
 
-- Hiking at Tongzhouyu, Beijing (April 2023)
+- Hiking at Tongzhouyu, Beijing (April 2023)<br>![hiking](\images\hiking.jpg) 
 
-  ![hiking](\images\hiking.jpg) 
+  <br>![hiking2](\images\hiking2.JPG)
 
-  <br>
+- Climbing Xiangshan Mountain at night, Beijing (May 2023)<br>![hiking3](\images\hiking3.JPG)
 
-  ![hiking2](\images\hiking2.JPG)
-
-- Climbing Xiangshan Mountain at night, Beijing (May 2023)
-
-  ![hiking3](\images\hiking3.JPG)
 

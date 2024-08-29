@@ -9,18 +9,10 @@ title: Experience
 
 ## Non-degree Studies
 
-- 15-26 July 2024	**Leiden Summer School in Languages and Linguistics (LLL)**
+- 15-26 July 2024	**Leiden Summer School in Languages and Linguistics (LLL)**<br>Centre for Linguistics, Leiden University (LUCL)
 
-  Centre for Linguistics, Leiden University (LUCL)
+- 2021 - 2023     **Peking University Junior Scholar Program**<br>Research Program on *Language and Artificial Intelligence*<br>Department of Chinese Language and Literature, Peking University<br>Supervisors: Prof. Yulin Yuan & Prof. Weidong Zhan
 
-- 2021 - 2023     **Peking University Junior Scholar Program**
-
-  Research Program on *Language and Artificial Intelligence*
-
-  Department of Chinese Language and Literature, Peking University
-
-  Supervisors: Prof. Yulin Yuan & Prof. Weidong Zhan
-  
   <br>
 
 
@@ -28,13 +20,7 @@ title: Experience
 
 ## Research Experience
 
-- 2022     **Research Assistant**
-
-  *Fieldwork on the Qimaba Hani in Yunnan, China*
-
-  Department of Chinese Language and Literature, Peking University
-
-  Principal Investigator: Dr. Dejiang Yu
+- 2022     **Research Assistant**<br>*Fieldwork on the Qimaba Hani in Yunnan, China*<br>Department of Chinese Language and Literature, Peking University<br>Principal Investigator: Dr. Dejiang Yu
 
   <br>
 
@@ -43,11 +29,7 @@ title: Experience
 
 ## Professional Service
 
-- Fall 2023     **Teaching Assistant**
-
-  *Modern Chinese Language (I)*
-
-  Department of Chinese Language and Literature, Peking University
+- Fall 2023     **Teaching Assistant**<br>*Modern Chinese Language (I)*<br>Department of Chinese Language and Literature, Peking University
 
   <br>
 
