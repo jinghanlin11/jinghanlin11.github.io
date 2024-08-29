@@ -8,7 +8,7 @@ title: Hobbies
 
 ## Piano
 
-<br>![piano](\images\piano.jpg)<br>I have been practicing the piano since I was six years old. Chopin, Beethoven and Bach are my favourites.<br>I was the piano accompanist for the choir in our department.<br>![piano2](\images\piano2.jpg)
+![piano](\images\piano.jpg)<br>I have been practicing the piano since I was six years old. Chopin, Beethoven and Bach are my favourites.<br>I was the piano accompanist for the choir in our department.<br>![piano2](\images\piano2.jpg)
 
 <br>
 
