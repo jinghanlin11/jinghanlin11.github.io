@@ -4,9 +4,7 @@ layout: page
 
 ## About Me
 
-![jinghan](\images\jinghan1.jpeg)
-
-My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵]. <br>I am currently pursuing my Master's degree in *Chinese Linguistics* at Peking University under the supervision of Prof. Yunjia Wang. <br>My research interests are phonetics and phonology, especially acoustic and perceptual research on sound variation and change, cue weighting in sound contrast. As a native speaker, I also have a strong interest in Southern Min Chinese dialects. <br>In my spare time, I enjoy piano, jogging, hiking and badminton. <br><br>Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <br>
+![jinghan](\images\jinghan1.jpeg)<br><br>My name is **Jinghan Lin（林婧涵）**, pronounced as [ʨiᵊŋ⁵¹ xan³⁵ lin³⁵]. <br>I am currently pursuing my Master's degree in *Chinese Linguistics* at Peking University under the supervision of Prof. Yunjia Wang. <br>My research interests are phonetics and phonology, especially acoustic and perceptual research on sound variation and change, cue weighting in sound contrast. As a native speaker, I also have a strong interest in Southern Min Chinese dialects. <br>In my spare time, I enjoy piano, jogging, hiking and badminton. <br><br>Please contact me at **jinghanlin11** **[at]** **outlook** **[dot]** **com**. <br>
 
 <br>
 
