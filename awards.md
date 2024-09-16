@@ -6,7 +6,7 @@ title: Awards
 
 > Lastest Update: 28 August 2024
 
-## Scholarships
+## Awards & Scholarships
 
 - 2023 - 2024 <br>Li Xiaofan Dialectology Scholarship, Peking University
 
