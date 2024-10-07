@@ -8,7 +8,7 @@ title: Awards
 
 ## Awards & Scholarships
 
-- 2024 - 2025<br>Graduate Student Academic Scholarship [研究生专项学业奖学金], Peking University
+- 2024 - 2025<br>Graduate Student Dedicated Academic Scholarship [研究生专项学业奖学金], Peking University <br>Yang Jinfang International Exchange Scholarship [杨锦方国际交流奖学金], Peking University
 
   
 
