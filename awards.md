@@ -16,16 +16,16 @@ title: Awards
 
   
 
-- 2023 <br>“Excellent graduate” [优秀毕业生], Peking University
+- 2023 <br>Excellent Graduate [优秀毕业生], Peking University
 
   
 
-- 2021 - 2022 <br>Award for Academic Excellence [学业优秀奖], Peking University<br>The Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
+- 2021 - 2022 <br>Award for Academic Excellence [学业优秀奖], Peking University<br>Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
 
   
 
-- 2020 - 2021 <br>“Merit Student Pacesetter” [三好学生标兵], Peking University<br>Leo Koguan Scholarship [廖凯原奖学金], Peking University
+- 2020 - 2021 <br>Merit Student Pacesetter [三好学生标兵], Peking University<br>Leo Koguan Scholarship [廖凯原奖学金], Peking University
 
   
 
-- 2019 - 2020 <br>“Merit Student” [三好学生], Peking University<br>The Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
+- 2019 - 2020 <br>Merit Student [三好学生], Peking University<br>Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
