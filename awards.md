@@ -20,7 +20,7 @@ title: Awards
 
   
 
-- 2021 - 2022 <br>Award for Academic Excellence [学业优秀奖], Peking University<br>Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
+- 2021 - 2022 <br>Award for Academic Excellence [学习优秀奖], Peking University<br>Third Prize of Peking University Scholarship [北京大学三等奖学金], Peking University
 
   
 
