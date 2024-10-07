@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-> Latest update: 30 September 2024
+> Latest update: 7 October 2024
 >
 
 ## Non-degree Studies
@@ -34,4 +34,16 @@ title: Experience
   <br>
 
 ---
+
+## Social Work
+
+- 2024 - 2025<br>**Vice Minister of the Academic Department**, Graduate Student Association of the Department of Chinese Language and Literature, Peking University [北京大学中国语言文学系研究生会学术部副部长]<br>
+
+- 2023 - 2024 <br>**Director of the Media Center**, the Youth League Committee of the Department of Chinese Language and Literature, Peking University [北京大学中国语言文学系团委媒体中心主任]
+
+  <br>
+
+- September 2022 - February 2024 <br>**Editor-in-Chief of the "Linguistics Microjournal"** (Academic WeChat Public Account), Center for Chinese Linguistics, Peking University [北京大学中国语言学研究中心“语言学微刊”学术公众号主编]
+
+  <br>
 
