@@ -38,12 +38,6 @@ title: Experience
 ## Social Work
 
 - 2024 - 2025<br>**Vice Minister of the Academic Department**, Graduate Student Association of the Department of Chinese Language and Literature, Peking University [北京大学中国语言文学系研究生会学术部副部长] 
-
-  
-
 - 2023 - 2024 <br>**Director of the Media Center**, Youth League Committee of the Department of Chinese Language and Literature, Peking University [北京大学中国语言文学系团委媒体中心主任] 
-
-  
-
 - September 2022 - February 2024 <br>**Editor-in-Chief of the "Linguistics Microjournal"** (Academic WeChat Public Account), Center for Chinese Linguistics, Peking University [北京大学中国语言学研究中心“语言学微刊”学术公众号主编]
 
