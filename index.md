@@ -10,8 +10,6 @@ layout: page
 
 > 📢 In Spring 2025, I will be an exchange student at the University of Zurich, majoring in Computational Linguistics and Language Technology.
 
-<br>
-
 ------
 
 
