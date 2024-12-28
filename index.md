@@ -10,7 +10,7 @@ layout: page
 
 > **📢 In the spring semester of 2025, I will be participating in an exchange program at the University of Zurich, in the field of Computational Linguistics and Language Technology.**
 
-
+<br>
 
 ------
 
