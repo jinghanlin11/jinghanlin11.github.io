@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-> 📢 In the spring semester of 2025, I will be participating in an exchange program at the University of Zurich, in the field of Computational Linguistics and Language Technology.
+> 📢 In Spring 2025, I will be an exchange student at the University of Zurich, majoring in Computational Linguistics and Language Technology.
 
 <br>
 
