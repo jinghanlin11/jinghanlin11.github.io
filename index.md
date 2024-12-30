@@ -24,7 +24,7 @@ layout: page
 
 ## Research Interests
 
-**·** Experimental phonetics <br>**·** Acoustic and perceptual research<br>**·** Language variation and change<br>**·** Sociolinguistics<br>**·** Southern Min dialects<br>
+**·**  Experimental phonetics <br>**·**  Acoustic and perceptual research<br>**·**  Language variation and change<br>**·**  Sociolinguistics<br>**·**  Southern Min dialects<br>
 
 <br>
 
