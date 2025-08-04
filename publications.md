@@ -22,12 +22,8 @@ title: Publications
 ## Conference Presentations / 会议报告
 
 - **林婧涵**, & 王韫佳 (2023, July 7–10). <br>
-  
   福建东山闽南方言入声塞音韵尾 -t、-k 的演变<br>
-  
   *[The evolution of the ending stops -t and -k of entering tones in Dongshan Southern Min dialect]* <br>
-  
   Paper presented at *第十五届中国语音学学术会议暨语音学前沿国际论坛 [The 15th Phonetic Conference of China (PCC2023)]*, <br>
-  
   South University of Science and Technology of China, Shenzhen, China.
 
