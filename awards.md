@@ -4,11 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Latest update: 7 October 2024
+> Latest update: 4 August 2025
 
 ## Awards & Scholarships
 
-- 2024 - 2025<br>Graduate Student Dedicated Academic Scholarship [研究生专项学业奖学金], Peking University <br>Yang Jinfang International Exchange Scholarship [杨锦方国际交流奖学金], Peking University
+- 2024 - 2025<br>Graduate Student Dedicated Academic Scholarship [研究生专项学业奖学金], Peking University <br>Yang Jinfang International Exchange Scholarship [杨锦方国际交流奖学金], Peking University <br>Fujian Young Talent Development Program – Excellence Scholarship [福建青年人才成长计划优秀奖学金]
 
   
 

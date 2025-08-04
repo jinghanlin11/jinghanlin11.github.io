@@ -4,10 +4,13 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-> Latest update: 7 October 2024
+> Latest update: 4 August 2025
 >
 
 ## Non-degree Studies
+
+- February - July 2025  **Exchange Student** <br>
+  Program in Computational Linguistics and Language Technology<br>Department of Computational Linguistics, University of Zurich <br>Support for participation was provided by *Yang Jinfang International Exchange Scholarship, Peking University*.
 
 - 15-26 July 2024&ensp;&ensp;**Leiden Summer School in Languages and Linguistics (LLL)**<br>Centre for Linguistics, Leiden University (LUCL)<br>Support for participation was provided by the *Peking University Graduate Student Academic Exchange Fund*.
 
