@@ -8,6 +8,10 @@ title: Awards
 
 ## Awards & Scholarships
 
+- 2026<br>Excellent Graduate, Peking University [北京大学优秀毕业生]
+
+  
+
 - 2025 - 2026<br>Graduate Student Dedicated Academic Scholarship, Peking University [北京大学研究生专项学业奖学金]
 
   
