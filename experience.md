@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-> Latest update: 4 August 2025
+> Latest update: August 4, 2025
 >
 
 ## Non-degree Studies
