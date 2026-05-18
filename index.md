@@ -19,7 +19,7 @@ layout: page
 
 ## Academic Background
 
-- **2023 - 2026&ensp;&ensp;M.A. in Chinese Linguistics** <br>Department of Chinese Language and Literature, Peking University <br>Thesis: *Production and perception of unreleased stop codas in Dongshan Southern Min* <br>Supervisor: Prof. Yunjia Wang <br>
+- **2023 - 2026&ensp;&ensp;M.A. in Chinese Linguistics** <br>Department of Chinese Language and Literature, Peking University <br>Thesis: *Production and perception of stop codas in Tongling Southern Min* <br>Supervisor: Prof. Yunjia Wang <br>
 - **February - July 2025&ensp;&ensp;Exchange Student**<br>Program in Computational Linguistics and Language Technology <br>
   Department of Computational Linguistics, University of Zurich <br>
 - **2019 - 2023&ensp;&ensp;B.A. in Chinese** <br>Department of Chinese Language and Literature, Peking University <br>Thesis: *The Evolution of the Ending Stops -t and -k of Entering Tones in Dongshan Southern Min Dialect* <br>Supervisor: Prof. Yunjia Wang <br>
