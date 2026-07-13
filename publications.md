@@ -10,7 +10,7 @@ title: Publications
 
 ## Journal Papers / 期刊论文
 
-王韫佳, & **林婧涵**. (2025). 福建东山闽南方言开口呼塞尾韵 /at/ 和 /ak/ 的分合初探 *[A preliminary study on the merger of /at/ and /ak/ in Dongshan Southern Min dialects]*,《汉语研究》*[Studies in Chinese Language & Linguistics]*, 2025(1), 56–76.
+王韫佳, & **林婧涵**. (2025). [福建东山闽南方言开口呼塞尾韵 /at/ 和 /ak/ 的分合初探](https://jinghanlin11.github.io/file/Wang & Lin 2025.pdf) *[A preliminary study on the merger of /at/ and /ak/ in Dongshan Southern Min dialects]*,《汉语研究》*[Studies in Chinese Language & Linguistics]*, 2025(1), 56–76.
 
 
 

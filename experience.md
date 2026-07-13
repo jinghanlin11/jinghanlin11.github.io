@@ -23,6 +23,10 @@ title: Experience
 
 ## Research Experience
 
+- 2026-present&ensp;&ensp;**Research Assistant**<br>Interdisciplinary Research Center for Linguistic Sciences, University of Science and
+  Technology of China<br>
+  Principal Investigator: Prof. Jiahong Yuan
+  
 - 2022&ensp; &ensp;**Research Assistant**<br>*Fieldwork on the Qimaba Hani in Yunnan, China*<br>Department of Chinese Language and Literature, Peking University<br>Principal Investigator: Dr. Dejiang Yu
 
   <br>
